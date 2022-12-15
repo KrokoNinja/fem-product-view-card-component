@@ -4,14 +4,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-- [Author](#author)
+- [Overview](##overview)
+  - [The challenge](###the-challenge)
+  - [Screenshot](###screenshot)
+  - [Links](###links)
+- [My process](##my-process)
+  - [Built with](###built-with)
+  - [Continued development](###continued-development)
+- [Author](##author)
 
 
 ## Overview
