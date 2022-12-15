@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the Page](./images/screenshot.png)
+![Screenshot of the Desktop View](./images/screenshot-desktop.png)
+![Screenshot of the Mobile View](./images/screenshot-mobile.png)
 
 ### Links
 
