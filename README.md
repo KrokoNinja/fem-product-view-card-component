@@ -32,6 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on Front End Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-hv39Icjp8Y)
+-Live Site URL: [Live Site of the Challenge](https://krokoninja.github.io/fem-product-view-card-component/)
 
 ## My process
 
