@@ -4,14 +4,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](##overview)
-  - [The challenge](###the-challenge)
-  - [Screenshot](###screenshot)
-  - [Links](###links)
-- [My process](##my-process)
-  - [Built with](###built-with)
-  - [Continued development](###continued-development)
-- [Author](##author)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
 
 ## Overview
@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on Front End Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-hv39Icjp8Y)
--Live Site URL: [Live Site of the Challenge](https://krokoninja.github.io/fem-product-view-card-component/)
+- Live Site URL: [Live Site of the Challenge](https://krokoninja.github.io/fem-product-view-card-component/)
 
 ## My process
 
