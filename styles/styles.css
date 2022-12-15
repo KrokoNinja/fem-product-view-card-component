@@ -81,6 +81,12 @@ button {
 	align-items: center;
 	background-color: var(--primary-dark-cyan);
 	border-radius: 8px;
+	color: var(--neutral-white);
+	font-weight: 700;
+}
+
+svg {
+	margin-right: 10px;
 }
 
 footer {
@@ -144,12 +150,6 @@ footer {
 
 #discount {
 	color: var(--primary-dark-cyan);
-}
-
-#cart {
-	margin-left: 10px;
-	color: var(--neutral-white);
-	font-weight: 700;
 }
 
 /* Desktop View */
