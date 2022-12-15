@@ -2,6 +2,7 @@
 :root {
 	/* Colors*/
 	--primary-dark-cyan: hsl(158, 36%, 37%);
+	--primary-very-dark-cyan: hsl(158, 42%, 18%);
 	--primary-cream: hsl(30, 38%, 92%);
 
 	--neutral-very-dark-blue: hsl(212, 21%, 14%);
@@ -159,7 +160,7 @@ footer {
 		justify-content: center;
 	}
 
-	button:active {
+	button:hover {
 		background-color: var(--neutral-very-dark-blue);
 	}
 
